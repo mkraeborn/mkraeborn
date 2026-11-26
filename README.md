@@ -48,8 +48,6 @@ More in [open source](https://alts.agency/opensource).
 
 Big fan of ![Prime Agent](https://img.shields.io/badge/Prime_Agent-5FD3B4?style=flat-square&logoColor=black)
 
-<sub>Certified by Anthropic and AWS · Claude Certified Architect · Claude Certified Associate · AWS Certified Developer</sub>
-
 <div align="center">
 
 > *The best ideas aren't new technology. They're real problems, finally solved.*
