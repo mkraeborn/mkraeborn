@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
                          ▲
                         ╱ ╲
@@ -16,6 +14,8 @@
              ╱        Logistics        ╲
             ╱───────────────────────────╲
 ```
+
+<div align="center">
 
 ### Max Tiong · Product & Transformation Leader
 
