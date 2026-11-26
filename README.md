@@ -33,9 +33,9 @@ Alongside your team. We sit with the people who do the work, build in your accou
 |---|---|---|
 | **[Ren](https://ren.alts.agency/)** | 🟢 Live | Action agents for business teams |
 | **Papertail** | 🟢 Live | AI legal console powered by frontier AI |
-| **[MarginCheck](https://margincheck.alts.agency/)** | 🟢 Live | Used-car depreciation, nightly |
-| **Becover** | 🛠 Building | |
-| **alts.chat** | 🛠 Building | One API for your agents' chat apps |
+| **[MarginCheck](https://margincheck.alts.agency/)** | 🟢 Live | For motor traders to optimize their buffer margins (SG / MY only) |
+| **Becover** | 🛠 Building | Coming Soon |
+| **alts.chat** | 🛠 Building | Coming Soon |
 
 More in [open source](https://alts.agency/opensource).
 
