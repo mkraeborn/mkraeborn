@@ -1,64 +1,59 @@
-```
-                         ▲
-                        ╱ ╲
-                       ╱ AI ╲            B U I L D I N G
-                      ╱───────╲               t h e
-                     ╱ Banking ╲            F U T U R E
-                    ╱───────────╲
-                   ╱  Insurance  ╲
-                  ╱───────────────╲
-                 ╱      Telco      ╲
-                ╱───────────────────╲
-               ╱       Travel        ╲
-              ╱───────────────────────╲
-             ╱        Logistics        ╲
-            ╱───────────────────────────╲
-```
+<img src="banner.png" alt="Building the Future" width="100%">
 
 <div align="center">
 
-### Max Tiong · Product & Transformation Leader
+### Max Tiong · Principal Innovator, [Alts Agency](https://alts.agency)
 
-20 years shipping products across banking, insurance, telco, travel and logistics.<br>
-Now building at **[Alts Agency](https://alts.agency)**, Kuala Lumpur · Singapore · Seoul.
+**alts, the alternative agency.** We build to solve business problems, not to play with shiny tech.<br>
+Twenty years of building products for corporates, now brought to founders, operators, brands and leaders.<br>
+Kuala Lumpur · Singapore · Seoul
 
-[![Alts Agency](https://img.shields.io/badge/alts.agency-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alts.agency)
+[![alts.agency](https://img.shields.io/badge/alts.agency-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alts.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-tiong)
-[![Contact](https://img.shields.io/badge/Work_with_us-111111?style=for-the-badge)](https://alts.agency/contact)
+[![Let's build](https://img.shields.io/badge/Let's_build_›-5FD3B4?style=for-the-badge&logoColor=black)](https://alts.agency/contact)
 
 </div>
 
 ---
 
-### What Alts Agency does
+### How we work with you
 
-| | For | What you get |
+Alongside your team. We sit with the people who do the work, build in your accounts, and leave them able to run it without us.
+
+| | | |
 |---|---|---|
-| **Venture Build Partner** | Founders | Product strategy, design, engineering and launch, for a fee or equity |
-| **AI Turnkey Consulting** | Operators | Workflows redesigned, then agents and software built on the tools you already use |
-| **Generative AI SEO** | Brands | Find and fix what ChatGPT, Claude and Gemini say about you |
-| **Fractional AI Team** | Leadership | An outsourced AI department on outcome-based contracts, with training |
+| **For founders** | **[Venture Build Partner](https://alts.agency)** | You know the market. We'll be your product team: we scope, design, build and launch your first version with you, for a fee or for equity. The company and its direction stay yours. |
+| **For operators** | **[AI Turnkey Consulting](https://alts.agency)** | We redesign the workflow, then build the agents and software it needs on the tools you already use. Your team tests it, learns to run it, and owns it from then on. |
+| **For brands** | **[Generative AI SEO](https://alts.agency)** | Your customers ask ChatGPT, Claude and Gemini for answers now. We check what those tools say about you, fix what they read, and show your team how to keep it that way. |
+| **For leadership** | **[Fractional AI Team](https://alts.agency)** | Your AI department as a service: direction, tools, delivery and training, on outcome-based contracts. When you're ready to hire your own, we help with that too. |
 
-### How I work
+### Things we build ourselves
 
-```yaml
-product:      start from the problem, ship the smallest thing that proves it, then scale
-engineering:  close enough to the code to know what's hard and what's just slow
-people:       small senior teams, clear owners, no theatre
-markets:      Southeast Asia and Korea, regulated industries, enterprise and SME
-```
+| | Status | |
+|---|---|---|
+| **[Ren](https://ren.alts.agency/)** | 🟢 Live | Action agents for business teams |
+| **Papertail** | 🟢 Live | AI legal console powered by frontier AI |
+| **[MarginCheck](https://margincheck.alts.agency/)** | 🟢 Live | Used-car depreciation, nightly |
+| **Becover** | 🛠 Building | |
+| **alts.chat** | 🛠 Building | One API for your agents' chat apps |
+
+More in [open source](https://alts.agency/opensource).
 
 ### Tools I build with
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
 
-<sub>Claude Certified Architect · Claude Certified Associate · MSc NUS · BEng Nottingham · Korea University</sub>
+Big fan of ![Prime Agent](https://img.shields.io/badge/Prime_Agent-5FD3B4?style=flat-square&logoColor=black)
+
+<sub>Certified by Anthropic and AWS · Claude Certified Architect · Claude Certified Associate · AWS Certified Developer</sub>
 
 <div align="center">
 
-**Have something worth building? → [alts.agency/contact](https://alts.agency/contact)**
+> *The best ideas aren't new technology. They're real problems, finally solved.*
+
+**Got something in mind? → [alts.agency/contact](https://alts.agency/contact)**
 
 </div>
